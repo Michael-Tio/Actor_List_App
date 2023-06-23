@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ActorList</string>
+    <string name="michael_andreas_prasetio">Michael Andreas Prasetio</string>
+    <string name="mtio161_gmail_com">mtio161@gmail.com</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="profile">Profile</string>
+    <string name="actors_image">Actor\'s Image</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="detail">Detail</string>
+    <string name="about_page">about_page</string>
+    <string name="actor_list">Actor List</string>
+    <string name="movies">Movies</string>
+    <string name="nama_aktor">Nama Aktor</string>
+    <string name="tanggal">10 April 2010</string>
+    <string name="search_actor">Search Actor</string>
+</resources>
